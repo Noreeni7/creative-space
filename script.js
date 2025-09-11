@@ -14,3 +14,5 @@ logo.addEventListener('mouseleave', () =>{
     logo.style.transition = "transform 0.6s ease";
     logo.style.transform = "rotate(0deg)";
 });
+
+
